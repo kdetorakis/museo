@@ -58,7 +58,7 @@ Museo is a React.js-based web application that enhances the tourism experience i
 
 This repository contains only the public-facing documentation and frontend details. If you need access to the full source code, including backend implementation, you can request access to the private repository.
 
-➡ **[Request Access to Full Repository](https://github.com/yourusername/museo-private)**
+➡ **[Request Access to Full Repository](https://github.com/kdetorakis/react)**
 
 ---
 
