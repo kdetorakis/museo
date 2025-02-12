@@ -1,6 +1,6 @@
 # Museo - React.js Frontend
 
-![Museo Logo](path_to_logo_image)
+![Museo Logo](/assets/1.png)
 
 ## 📌 About the Project
 
