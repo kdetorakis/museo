@@ -86,16 +86,3 @@ This repository contains only the public-facing documentation and frontend detai
 - Improve UI with interactive maps
 
 ---
-
-## 📬 Contact
-
-For any questions or contributions, reach out:
-
-- Email: <your.email@example.com>
-- GitHub: [yourusername](https://github.com/yourusername)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
