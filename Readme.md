@@ -78,23 +78,6 @@ Museo is a full-stack web application designed to enhance the tourism experience
 
 ---
 
-## 📜 Project Structure
-
-```
-/museo-frontend
-│── /src
-│   │── /components  # Reusable UI components
-│   │── /pages       # Application pages
-│   │── /utils       # Utility functions
-│   │── App.js       # Main application component
-│   │── index.js     # Entry point
-│── /public         # Static assets
-│── package.json    # Project metadata
-│── README.md       # Documentation
-```
-
----
-
 ## 🚀 Future Enhancements
 
 - Implement authentication
