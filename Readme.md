@@ -1,28 +1,51 @@
-# Museo - React.js Frontend
+# Museo - A Full Stack Tourism Web Application
 
 ![Museo Logo](/assets/1.png)
 
-## 📌 About the Project
+## 📌 Overview
 
-Museo is a React.js-based web application that enhances the tourism experience in Crete. It provides personalized recommendations for monuments and points of interest based on user inputs.
-
----
-
-## 🏗️ Tech Stack
-
-- React.js
-- HTML / CSS / JavaScript
-- Axios for API requests
-- React Router for navigation
+Museo is a full-stack web application designed to enhance the tourism experience in Crete, Greece. It recommends monuments and points of interest based on user input. The app provides details like working hours, locations, and prices. Data is sourced from a custom XML file.
 
 ---
 
-## ✨ Features
+## 🏗️ Features
 
-- User input-based recommendations
-- Information on working hours and pricing
-- Responsive UI
-- XML data integration
+- **User Input**: Users can input their preferences and requirements.
+- **Recommendations**: The app recommends monuments and points of interest based on the user's input.
+- **Detailed Information**: Provides detailed information about each recommended place, including working hours, locations, and prices.
+- **XML Data Source**: All data is sourced from a custom XML file.
+
+---
+
+## ✨ Technologies Used
+
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Backend**: MySQL
+- **Server**: XAMPP
+
+---
+
+## 🖼️ Screenshots
+
+### Home Page
+
+![Home Page](assets/4.png)
+
+### Recommendation Page
+
+![Recommendation Page](assets/3.png)
+
+### Monument Details
+
+![Monument Details](assets/2.png)
+
+### Travel Plan
+
+![Travel Plan](assets/5.png)
+
+### Login Page
+
+![Login Page](assets/6.png)
 
 ---
 
@@ -49,16 +72,9 @@ Museo is a React.js-based web application that enhances the tourism experience i
 4. Start the development server:
 
    ```bash
-   npm start
+   git clone https://github.com/kdetorakis/react
+   cd museo
    ```
-
----
-
-## 🔒 Full Source Code Access
-
-This repository contains only the public-facing documentation and frontend details. If you need access to the full source code, including backend implementation, you can request access to the private repository.
-
-➡ **[Request Access to Full Repository](https://github.com/yourusername/museo-private)**
 
 ---
 
@@ -87,12 +103,15 @@ This repository contains only the public-facing documentation and frontend detai
 
 ---
 
-## 📬 Contact
+## 🔒 Full Source Code Access
 
-For any questions or contributions, reach out
+This repository contains only public documentation and frontend details.  
+
+*To request full access:*
+
+1. Open an issue [here](https://github.com/kdetorakis/react).
+2. Briefly state why you need access.
+3. I'll review and grant permissions accordingly.
+*(If access is denied, please email me to request permission.)*
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
